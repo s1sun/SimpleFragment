@@ -1,0 +1,10 @@
+# ANDBOID IGNORES
+#Built application files
+*.apk
+*.ap_
+
+# File for Dalvik VM
+*.dex
+
+# Java class files
+*.class
